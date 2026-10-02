@@ -1,0 +1,501 @@
+Customer_ID,Name,Email,Signup_Date,Country,Segment
+CUST0001,Aisha Smith,aisha.smith1@example.com,2023-01-26,Canada,Home Office
+CUST0002,Liam Brown,liam.brown2@example.com,2023-05-23,Canada,Consumer
+CUST0003,Aisha Thomas,aisha.thomas3@example.com,2025-07-02,India,Consumer
+CUST0004,Lucas Sharma,lucas.sharma4@example.com,2023-02-02,United States,Consumer
+CUST0005,Liam Brown,liam.brown5@example.com,2024-06-01,India,Consumer
+CUST0006,Daniel Brown,daniel.brown6@example.com,2025-01-03,France,Home Office
+CUST0007,Daniel Sharma,daniel.sharma7@example.com,2023-08-14,Germany,Corporate
+CUST0008,Noah Khan,noah.khan8@example.com,2025-02-16,Canada,Corporate
+CUST0009,Ethan Sharma,ethan.sharma9@example.com,2023-12-15,United Kingdom,Corporate
+CUST0010,Liam Garcia,liam.garcia10@example.com,2023-04-15,United States,Consumer
+CUST0011,Irfan Garcia,irfan.garcia11@example.com,2025-05-17,United Kingdom,Corporate
+CUST0012,Noah Khan,noah.khan12@example.com,2025-01-17,Germany,Corporate
+CUST0013,Irfan Sharma,irfan.sharma13@example.com,2023-03-22,India,Home Office
+CUST0014,Amelia Singh,amelia.singh14@example.com,2024-09-25,Singapore,Consumer
+CUST0015,Olivia Anderson,olivia.anderson15@example.com,2023-07-16,Canada,Consumer
+CUST0016,Aarav Singh,aarav.singh16@example.com,2023-08-22,Canada,Home Office
+CUST0017,Irfan Brown,irfan.brown17@example.com,2025-06-06,United States,Consumer
+CUST0018,Noah Miller,noah.miller18@example.com,2024-10-12,Australia,Home Office
+CUST0019,Emma Garcia,emma.garcia19@example.com,2023-12-30,United States,Home Office
+CUST0020,Noah Thomas,noah.thomas20@example.com,2025-08-17,France,Home Office
+CUST0021,Irfan Anderson,irfan.anderson21@example.com,2024-10-12,United States,Corporate
+CUST0022,Ethan Brown,ethan.brown22@example.com,2023-06-17,Germany,Consumer
+CUST0023,Noah Singh,noah.singh23@example.com,2024-12-05,India,Corporate
+CUST0024,Aisha Garcia,aisha.garcia24@example.com,2025-05-13,Canada,Consumer
+CUST0025,Aarav Brown,aarav.brown25@example.com,2025-04-21,United States,Consumer
+CUST0026,Olivia Sharma,olivia.sharma26@example.com,2023-10-02,United States,Corporate
+CUST0027,Lucas Thomas,lucas.thomas27@example.com,2023-11-19,United States,Home Office
+CUST0028,Mia Sharma,mia.sharma28@example.com,2025-06-24,Singapore,Home Office
+CUST0029,Mia Patel,mia.patel29@example.com,2023-09-29,United States,Corporate
+CUST0030,Ethan Taylor,ethan.taylor30@example.com,2024-07-05,United Kingdom,Home Office
+CUST0031,Lucas Sharma,lucas.sharma31@example.com,2025-07-08,India,Consumer
+CUST0032,Olivia Brown,olivia.brown32@example.com,2023-05-22,India,Consumer
+CUST0033,Irfan Khan,irfan.khan33@example.com,2025-05-31,United States,Corporate
+CUST0034,Aisha Patel,aisha.patel34@example.com,2025-03-22,France,Consumer
+CUST0035,Lucas Smith,lucas.smith35@example.com,2024-01-30,Germany,Corporate
+CUST0036,Mia Taylor,mia.taylor36@example.com,2023-09-15,India,Consumer
+CUST0037,Aarav Singh,aarav.singh37@example.com,2025-01-08,United States,Home Office
+CUST0038,Daniel Wilson,daniel.wilson38@example.com,2025-02-26,France,Home Office
+CUST0039,Irfan Wilson,irfan.wilson39@example.com,2024-03-21,United States,Consumer
+CUST0040,Aarav Thomas,aarav.thomas40@example.com,2025-06-15,Canada,Home Office
+CUST0041,Daniel Patel,daniel.patel41@example.com,2024-06-03,Singapore,Consumer
+CUST0042,Amelia Singh,amelia.singh42@example.com,2023-11-02,Australia,Home Office
+CUST0043,Daniel Anderson,daniel.anderson43@example.com,2023-07-23,United States,Home Office
+CUST0044,Mason Patel,mason.patel44@example.com,2024-07-06,Canada,Corporate
+CUST0045,Aarav Anderson,aarav.anderson45@example.com,2023-11-28,Germany,Consumer
+CUST0046,Irfan Garcia,irfan.garcia46@example.com,2025-06-18,Australia,Consumer
+CUST0047,Noah Brown,unknown@example.com,2023-03-01,United States,Corporate
+CUST0048,Irfan Smith,irfan.smith48@example.com,2025-01-19,Germany,Consumer
+CUST0049,Irfan Taylor,irfan.taylor49@example.com,2025-02-23,United States,Corporate
+CUST0050,Aisha Miller,aisha.miller50@example.com,2025-08-27,India,Corporate
+CUST0051,Noah Taylor,noah.taylor51@example.com,2025-06-12,India,Consumer
+CUST0052,Liam Taylor,liam.taylor52@example.com,2025-02-12,Canada,Home Office
+CUST0053,Liam Thomas,liam.thomas53@example.com,2023-11-16,Germany,Home Office
+CUST0054,Aisha Garcia,aisha.garcia54@example.com,2024-03-24,Singapore,Corporate
+CUST0055,Mia Smith,mia.smith55@example.com,2023-09-11,United States,Consumer
+CUST0056,Olivia Khan,olivia.khan56@example.com,2024-08-25,India,Corporate
+CUST0057,Lucas Brown,lucas.brown57@example.com,2023-01-08,United States,Home Office
+CUST0058,Aisha Khan,aisha.khan58@example.com,2023-08-23,United States,Consumer
+CUST0059,Amelia Garcia,amelia.garcia59@example.com,2023-03-14,India,Corporate
+CUST0060,Noah Singh,noah.singh60@example.com,2024-05-12,United States,Corporate
+CUST0061,Emma Thomas,emma.thomas61@example.com,2025-08-15,Singapore,Corporate
+CUST0062,Lucas Miller,lucas.miller62@example.com,2023-09-06,Canada,Consumer
+CUST0063,Mason Sharma,mason.sharma63@example.com,2023-07-14,United States,Consumer
+CUST0064,Aisha Sharma,aisha.sharma64@example.com,2023-12-29,Germany,Consumer
+CUST0065,Mia Thomas,mia.thomas65@example.com,2023-02-25,France,Home Office
+CUST0066,Aisha Smith,aisha.smith66@example.com,2023-03-04,Germany,Home Office
+CUST0067,Olivia Smith,olivia.smith67@example.com,2023-09-12,United States,Corporate
+CUST0068,Daniel Miller,daniel.miller68@example.com,2023-05-24,Germany,Corporate
+CUST0069,Noah Miller,noah.miller69@example.com,2023-09-13,Australia,Consumer
+CUST0070,Mia Taylor,mia.taylor70@example.com,2023-04-11,United States,Home Office
+CUST0071,Daniel Khan,daniel.khan71@example.com,2025-09-19,United States,Consumer
+CUST0072,Amelia Brown,amelia.brown72@example.com,2023-06-20,Germany,Consumer
+CUST0073,Mia Brown,unknown@example.com,2025-06-04,Germany,Consumer
+CUST0074,Emma Sharma,emma.sharma74@example.com,2023-01-03,Germany,Home Office
+CUST0075,Mason Miller,mason.miller75@example.com,2023-10-20,Germany,Home Office
+CUST0076,Ethan Taylor,ethan.taylor76@example.com,2024-11-08,Canada,Consumer
+CUST0077,Emma Brown,emma.brown77@example.com,2023-10-31,United States,Consumer
+CUST0078,Lucas Thomas,lucas.thomas78@example.com,2024-07-09,United States,Home Office
+CUST0079,Olivia Khan,olivia.khan79@example.com,2023-02-21,India,Consumer
+CUST0080,Daniel Taylor,daniel.taylor80@example.com,2023-06-11,United States,Corporate
+CUST0081,Irfan Patel,irfan.patel81@example.com,2023-03-12,India,Consumer
+CUST0082,Aisha Brown,aisha.brown82@example.com,2024-02-18,United States,Corporate
+CUST0083,Liam Anderson,liam.anderson83@example.com,2024-08-31,United States,Corporate
+CUST0084,Irfan Sharma,irfan.sharma84@example.com,2024-11-04,India,Corporate
+CUST0085,Daniel Garcia,daniel.garcia85@example.com,2025-08-15,United Kingdom,Corporate
+CUST0086,Aisha Thomas,aisha.thomas86@example.com,2023-11-18,United States,Home Office
+CUST0087,Sophia Patel,sophia.patel87@example.com,2024-11-18,France,Home Office
+CUST0088,Mia Garcia,mia.garcia88@example.com,2025-08-09,Canada,Consumer
+CUST0089,Aarav Miller,aarav.miller89@example.com,2024-09-28,India,Consumer
+CUST0090,Irfan Taylor,irfan.taylor90@example.com,2023-08-07,India,Home Office
+CUST0091,Emma Garcia,unknown@example.com,2025-06-21,United States,Corporate
+CUST0092,Olivia Wilson,olivia.wilson92@example.com,2023-06-11,Germany,Consumer
+CUST0093,Daniel Thomas,daniel.thomas93@example.com,2023-11-06,India,Consumer
+CUST0094,Aisha Taylor,unknown@example.com,2023-01-09,France,Consumer
+CUST0095,Daniel Wilson,daniel.wilson95@example.com,2025-08-12,France,Consumer
+CUST0096,Emma Wilson,emma.wilson96@example.com,2023-04-29,Singapore,Consumer
+CUST0097,Ethan Taylor,ethan.taylor97@example.com,2023-06-09,United Kingdom,Home Office
+CUST0098,Lucas Brown,lucas.brown98@example.com,2025-01-04,United Kingdom,Corporate
+CUST0099,Aisha Singh,aisha.singh99@example.com,2025-05-23,United Kingdom,Corporate
+CUST0100,Mia Wilson,mia.wilson100@example.com,2025-07-16,Singapore,Consumer
+CUST0101,Aarav Smith,aarav.smith101@example.com,2024-10-11,Germany,Consumer
+CUST0102,Noah Khan,noah.khan102@example.com,2023-01-04,United Kingdom,Consumer
+CUST0103,Emma Singh,emma.singh103@example.com,2023-09-26,United States,Home Office
+CUST0104,Mia Taylor,mia.taylor104@example.com,2024-12-23,Germany,Corporate
+CUST0105,Aarav Smith,aarav.smith105@example.com,2023-03-19,Singapore,Home Office
+CUST0106,Emma Taylor,emma.taylor106@example.com,2023-02-06,Australia,Home Office
+CUST0107,Lucas Taylor,lucas.taylor107@example.com,2023-06-01,Germany,Corporate
+CUST0108,Aarav Wilson,aarav.wilson108@example.com,2024-01-09,Singapore,Consumer
+CUST0109,Amelia Khan,amelia.khan109@example.com,2025-07-09,United Kingdom,Corporate
+CUST0110,Aisha Brown,aisha.brown110@example.com,2024-11-13,United States,Home Office
+CUST0111,Mason Taylor,mason.taylor111@example.com,2025-06-24,Australia,Consumer
+CUST0112,Lucas Thomas,lucas.thomas112@example.com,2023-06-08,Singapore,Corporate
+CUST0113,Amelia Patel,amelia.patel113@example.com,2025-09-26,Canada,Consumer
+CUST0114,Emma Sharma,emma.sharma114@example.com,2023-01-26,United States,Home Office
+CUST0115,Olivia Sharma,olivia.sharma115@example.com,2025-04-01,France,Consumer
+CUST0116,Ethan Brown,ethan.brown116@example.com,2023-10-01,United States,Consumer
+CUST0117,Ethan Smith,ethan.smith117@example.com,2024-01-27,Australia,Consumer
+CUST0118,Amelia Miller,amelia.miller118@example.com,2023-08-16,United States,Consumer
+CUST0119,Mia Garcia,mia.garcia119@example.com,2023-11-09,Australia,Consumer
+CUST0120,Amelia Brown,amelia.brown120@example.com,2023-08-17,United States,Home Office
+CUST0121,Liam Sharma,liam.sharma121@example.com,2023-12-03,United Kingdom,Consumer
+CUST0122,Irfan Wilson,irfan.wilson122@example.com,2023-12-26,France,Corporate
+CUST0123,Sophia Singh,sophia.singh123@example.com,2025-05-13,India,Home Office
+CUST0124,Aarav Smith,aarav.smith124@example.com,2025-06-17,United Kingdom,Corporate
+CUST0125,Lucas Wilson,lucas.wilson125@example.com,2023-02-09,United States,Corporate
+CUST0126,Sophia Garcia,sophia.garcia126@example.com,2025-01-16,Canada,Home Office
+CUST0127,Sophia Anderson,sophia.anderson127@example.com,2024-06-07,United States,Consumer
+CUST0128,Lucas Brown,lucas.brown128@example.com,2023-09-18,United States,Home Office
+CUST0129,Sophia Khan,sophia.khan129@example.com,2024-06-16,Singapore,Consumer
+CUST0130,Daniel Singh,daniel.singh130@example.com,2025-01-06,Canada,Home Office
+CUST0131,Aisha Brown,aisha.brown131@example.com,2024-01-08,Germany,Consumer
+CUST0132,Aisha Garcia,aisha.garcia132@example.com,2024-09-30,United Kingdom,Home Office
+CUST0133,Amelia Smith,amelia.smith133@example.com,2025-01-07,Singapore,Home Office
+CUST0134,Daniel Wilson,daniel.wilson134@example.com,2024-11-13,Germany,Home Office
+CUST0135,Sophia Thomas,sophia.thomas135@example.com,2023-10-30,India,Corporate
+CUST0136,Liam Sharma,liam.sharma136@example.com,2024-11-11,Germany,Home Office
+CUST0137,Ethan Patel,ethan.patel137@example.com,2024-09-22,India,Home Office
+CUST0138,Sophia Taylor,sophia.taylor138@example.com,2025-05-03,United States,Home Office
+CUST0139,Noah Brown,noah.brown139@example.com,2024-03-16,Canada,Corporate
+CUST0140,Lucas Singh,lucas.singh140@example.com,2023-11-26,Germany,Consumer
+CUST0141,Mia Singh,unknown@example.com,2023-08-07,India,Consumer
+CUST0142,Mason Thomas,mason.thomas142@example.com,2023-06-23,France,Consumer
+CUST0143,Noah Taylor,noah.taylor143@example.com,2024-11-10,France,Corporate
+CUST0144,Olivia Smith,olivia.smith144@example.com,2025-04-18,Canada,Corporate
+CUST0145,Aisha Wilson,aisha.wilson145@example.com,2023-08-19,Canada,Corporate
+CUST0146,Emma Khan,unknown@example.com,2023-02-17,United States,Consumer
+CUST0147,Lucas Smith,lucas.smith147@example.com,2024-04-11,Germany,Home Office
+CUST0148,Lucas Brown,lucas.brown148@example.com,2025-01-05,Canada,Consumer
+CUST0149,Mia Sharma,mia.sharma149@example.com,2023-09-07,United States,Home Office
+CUST0150,Ethan Khan,ethan.khan150@example.com,2025-07-03,Canada,Consumer
+CUST0151,Mason Smith,mason.smith151@example.com,2025-03-08,Germany,Corporate
+CUST0152,Emma Thomas,emma.thomas152@example.com,2024-06-14,Germany,Consumer
+CUST0153,Daniel Brown,daniel.brown153@example.com,2025-07-28,Australia,Consumer
+CUST0154,Mia Patel,mia.patel154@example.com,2025-03-31,Germany,Home Office
+CUST0155,Daniel Taylor,daniel.taylor155@example.com,2024-09-01,United Kingdom,Consumer
+CUST0156,Mia Anderson,mia.anderson156@example.com,2025-04-14,Canada,Corporate
+CUST0157,Sophia Taylor,sophia.taylor157@example.com,2024-04-01,Singapore,Corporate
+CUST0158,Ethan Miller,ethan.miller158@example.com,2024-04-05,United Kingdom,Consumer
+CUST0159,Liam Singh,liam.singh159@example.com,2023-10-11,Canada,Consumer
+CUST0160,Daniel Miller,daniel.miller160@example.com,2024-10-03,United States,Home Office
+CUST0161,Mia Smith,mia.smith161@example.com,2024-12-31,United Kingdom,Corporate
+CUST0162,Noah Garcia,noah.garcia162@example.com,2023-11-24,Singapore,Corporate
+CUST0163,Irfan Patel,irfan.patel163@example.com,2023-06-04,United States,Consumer
+CUST0164,Ethan Patel,ethan.patel164@example.com,2024-12-24,United States,Consumer
+CUST0165,Sophia Sharma,sophia.sharma165@example.com,2023-12-05,India,Consumer
+CUST0166,Sophia Khan,sophia.khan166@example.com,2023-07-31,Australia,Consumer
+CUST0167,Sophia Anderson,sophia.anderson167@example.com,2025-08-26,Canada,Consumer
+CUST0168,Amelia Anderson,amelia.anderson168@example.com,2024-01-25,Germany,Consumer
+CUST0169,Olivia Wilson,olivia.wilson169@example.com,2025-02-10,Germany,Consumer
+CUST0170,Amelia Sharma,amelia.sharma170@example.com,2024-07-05,Canada,Home Office
+CUST0171,Daniel Anderson,daniel.anderson171@example.com,2025-07-08,United States,Consumer
+CUST0172,Liam Wilson,liam.wilson172@example.com,2024-03-22,Germany,Consumer
+CUST0173,Sophia Garcia,sophia.garcia173@example.com,2024-11-15,France,Consumer
+CUST0174,Sophia Thomas,sophia.thomas174@example.com,2023-06-19,Australia,Consumer
+CUST0175,Emma Anderson,emma.anderson175@example.com,2024-06-30,United States,Consumer
+CUST0176,Lucas Anderson,lucas.anderson176@example.com,2024-11-09,United States,Consumer
+CUST0177,Aisha Sharma,aisha.sharma177@example.com,2023-05-19,Australia,Consumer
+CUST0178,Emma Khan,emma.khan178@example.com,2023-09-24,Germany,Home Office
+CUST0179,Liam Miller,liam.miller179@example.com,2023-12-01,United Kingdom,Consumer
+CUST0180,Sophia Wilson,sophia.wilson180@example.com,2025-02-09,Australia,Consumer
+CUST0181,Noah Smith,noah.smith181@example.com,2024-04-26,United States,Home Office
+CUST0182,Daniel Khan,unknown@example.com,2025-09-01,United Kingdom,Corporate
+CUST0183,Aisha Smith,aisha.smith183@example.com,2025-03-10,France,Consumer
+CUST0184,Mason Khan,mason.khan184@example.com,2025-08-30,United States,Corporate
+CUST0185,Amelia Khan,amelia.khan185@example.com,2024-09-28,United States,Corporate
+CUST0186,Emma Miller,emma.miller186@example.com,2024-11-16,United States,Corporate
+CUST0187,Liam Miller,liam.miller187@example.com,2024-12-17,United Kingdom,Consumer
+CUST0188,Olivia Patel,unknown@example.com,2024-09-12,India,Home Office
+CUST0189,Ethan Smith,ethan.smith189@example.com,2025-03-07,Australia,Corporate
+CUST0190,Noah Smith,noah.smith190@example.com,2024-08-15,United States,Home Office
+CUST0191,Lucas Singh,lucas.singh191@example.com,2025-07-18,Germany,Consumer
+CUST0192,Ethan Brown,ethan.brown192@example.com,2023-03-19,India,Home Office
+CUST0193,Amelia Singh,amelia.singh193@example.com,2023-09-06,United States,Home Office
+CUST0194,Mason Wilson,mason.wilson194@example.com,2025-05-20,France,Corporate
+CUST0195,Mason Smith,mason.smith195@example.com,2025-03-26,India,Consumer
+CUST0196,Aarav Garcia,aarav.garcia196@example.com,2024-06-29,Germany,Home Office
+CUST0197,Olivia Smith,olivia.smith197@example.com,2024-06-02,France,Home Office
+CUST0198,Aarav Sharma,aarav.sharma198@example.com,2025-04-22,Germany,Consumer
+CUST0199,Sophia Garcia,sophia.garcia199@example.com,2024-10-12,Singapore,Consumer
+CUST0200,Mia Thomas,mia.thomas200@example.com,2023-06-06,Germany,Corporate
+CUST0201,Ethan Taylor,ethan.taylor201@example.com,2025-09-15,France,Home Office
+CUST0202,Lucas Taylor,lucas.taylor202@example.com,2025-03-04,Germany,Consumer
+CUST0203,Sophia Thomas,sophia.thomas203@example.com,2024-08-29,United Kingdom,Home Office
+CUST0204,Amelia Brown,amelia.brown204@example.com,2025-04-30,Singapore,Consumer
+CUST0205,Noah Miller,noah.miller205@example.com,2023-09-07,Canada,Consumer
+CUST0206,Lucas Anderson,lucas.anderson206@example.com,2024-11-15,Germany,Home Office
+CUST0207,Aarav Miller,aarav.miller207@example.com,2025-05-21,United Kingdom,Corporate
+CUST0208,Mia Brown,mia.brown208@example.com,2023-12-30,Canada,Home Office
+CUST0209,Olivia Wilson,olivia.wilson209@example.com,2025-06-20,India,Home Office
+CUST0210,Noah Taylor,noah.taylor210@example.com,2023-01-11,India,Corporate
+CUST0211,Irfan Brown,irfan.brown211@example.com,2025-01-07,Germany,Consumer
+CUST0212,Daniel Brown,daniel.brown212@example.com,2024-12-08,Germany,Home Office
+CUST0213,Ethan Miller,ethan.miller213@example.com,2024-04-03,Canada,Consumer
+CUST0214,Irfan Wilson,irfan.wilson214@example.com,2023-08-15,Germany,Home Office
+CUST0215,Liam Wilson,liam.wilson215@example.com,2024-11-10,India,Home Office
+CUST0216,Mia Taylor,mia.taylor216@example.com,2024-06-27,United Kingdom,Consumer
+CUST0217,Ethan Taylor,ethan.taylor217@example.com,2023-12-05,United Kingdom,Home Office
+CUST0218,Mia Wilson,mia.wilson218@example.com,2023-11-10,United Kingdom,Corporate
+CUST0219,Irfan Thomas,unknown@example.com,2023-07-17,United Kingdom,Consumer
+CUST0220,Ethan Taylor,ethan.taylor220@example.com,2025-08-31,Canada,Home Office
+CUST0221,Emma Brown,emma.brown221@example.com,2023-08-10,Canada,Consumer
+CUST0222,Noah Thomas,noah.thomas222@example.com,2024-08-26,Canada,Corporate
+CUST0223,Lucas Wilson,lucas.wilson223@example.com,2023-04-13,Australia,Corporate
+CUST0224,Noah Brown,noah.brown224@example.com,2024-01-05,United States,Home Office
+CUST0225,Aarav Thomas,aarav.thomas225@example.com,2024-06-30,United States,Home Office
+CUST0226,Aarav Khan,aarav.khan226@example.com,2024-07-20,United Kingdom,Home Office
+CUST0227,Emma Singh,emma.singh227@example.com,2025-06-08,Canada,Consumer
+CUST0228,Irfan Khan,irfan.khan228@example.com,2024-08-10,United Kingdom,Consumer
+CUST0229,Mia Miller,mia.miller229@example.com,2023-12-15,United States,Consumer
+CUST0230,Noah Miller,noah.miller230@example.com,2023-04-27,Australia,Consumer
+CUST0231,Sophia Miller,sophia.miller231@example.com,2023-03-17,India,Home Office
+CUST0232,Aisha Khan,aisha.khan232@example.com,2023-06-05,United States,Consumer
+CUST0233,Lucas Wilson,lucas.wilson233@example.com,2023-03-29,United States,Consumer
+CUST0234,Daniel Sharma,daniel.sharma234@example.com,2024-09-12,India,Consumer
+CUST0235,Lucas Brown,unknown@example.com,2025-03-05,India,Consumer
+CUST0236,Mia Miller,mia.miller236@example.com,2023-11-01,Australia,Corporate
+CUST0237,Sophia Wilson,sophia.wilson237@example.com,2024-08-05,India,Consumer
+CUST0238,Lucas Thomas,lucas.thomas238@example.com,2023-04-12,Canada,Corporate
+CUST0239,Aisha Brown,aisha.brown239@example.com,2023-09-28,France,Consumer
+CUST0240,Emma Brown,emma.brown240@example.com,2023-06-27,India,Consumer
+CUST0241,Emma Khan,emma.khan241@example.com,2024-02-23,Germany,Home Office
+CUST0242,Lucas Miller,lucas.miller242@example.com,2023-10-26,United States,Corporate
+CUST0243,Noah Thomas,noah.thomas243@example.com,2023-10-17,Canada,Consumer
+CUST0244,Mia Smith,mia.smith244@example.com,2024-12-04,United States,Home Office
+CUST0245,Mason Singh,mason.singh245@example.com,2024-08-26,France,Consumer
+CUST0246,Liam Sharma,liam.sharma246@example.com,2023-04-28,India,Corporate
+CUST0247,Aisha Patel,aisha.patel247@example.com,2025-07-19,United Kingdom,Consumer
+CUST0248,Emma Smith,emma.smith248@example.com,2023-03-03,United States,Consumer
+CUST0249,Noah Anderson,noah.anderson249@example.com,2025-02-05,Australia,Corporate
+CUST0250,Noah Miller,noah.miller250@example.com,2023-05-08,Germany,Home Office
+CUST0251,Noah Thomas,noah.thomas251@example.com,2024-02-17,United Kingdom,Corporate
+CUST0252,Daniel Miller,daniel.miller252@example.com,2024-03-24,United States,Corporate
+CUST0253,Aarav Sharma,aarav.sharma253@example.com,2025-01-22,United Kingdom,Corporate
+CUST0254,Noah Khan,noah.khan254@example.com,2023-04-04,United States,Home Office
+CUST0255,Amelia Anderson,amelia.anderson255@example.com,2024-08-24,United States,Consumer
+CUST0256,Aisha Wilson,aisha.wilson256@example.com,2024-08-13,United States,Consumer
+CUST0257,Mason Patel,mason.patel257@example.com,2024-04-26,India,Home Office
+CUST0258,Mia Wilson,mia.wilson258@example.com,2023-07-05,India,Consumer
+CUST0259,Aisha Miller,aisha.miller259@example.com,2025-09-19,United States,Consumer
+CUST0260,Olivia Sharma,olivia.sharma260@example.com,2023-12-08,United Kingdom,Home Office
+CUST0261,Irfan Patel,irfan.patel261@example.com,2023-12-04,Germany,Home Office
+CUST0262,Mia Wilson,mia.wilson262@example.com,2024-11-09,Germany,Consumer
+CUST0263,Mason Taylor,mason.taylor263@example.com,2023-02-07,Germany,Consumer
+CUST0264,Olivia Wilson,olivia.wilson264@example.com,2023-11-28,United States,Consumer
+CUST0265,Sophia Taylor,sophia.taylor265@example.com,2025-04-24,United States,Home Office
+CUST0266,Amelia Taylor,amelia.taylor266@example.com,2024-04-18,Germany,Consumer
+CUST0267,Liam Taylor,liam.taylor267@example.com,2024-01-06,India,Consumer
+CUST0268,Mia Singh,mia.singh268@example.com,2024-03-28,Canada,Consumer
+CUST0269,Liam Wilson,liam.wilson269@example.com,2024-07-16,United States,Home Office
+CUST0270,Mia Thomas,mia.thomas270@example.com,2024-05-11,United States,Consumer
+CUST0271,Aisha Anderson,aisha.anderson271@example.com,2025-03-29,United States,Home Office
+CUST0272,Emma Wilson,emma.wilson272@example.com,2024-07-18,United States,Corporate
+CUST0273,Sophia Smith,unknown@example.com,2023-08-19,Australia,Consumer
+CUST0274,Mia Smith,mia.smith274@example.com,2024-10-25,Australia,Corporate
+CUST0275,Mia Thomas,mia.thomas275@example.com,2023-10-26,India,Home Office
+CUST0276,Noah Sharma,noah.sharma276@example.com,2025-05-04,Germany,Consumer
+CUST0277,Liam Miller,liam.miller277@example.com,2024-07-18,United States,Consumer
+CUST0278,Liam Anderson,liam.anderson278@example.com,2024-06-04,Canada,Corporate
+CUST0279,Amelia Smith,amelia.smith279@example.com,2023-10-10,Canada,Consumer
+CUST0280,Amelia Sharma,amelia.sharma280@example.com,2023-12-15,Singapore,Consumer
+CUST0281,Daniel Wilson,daniel.wilson281@example.com,2025-04-20,United States,Home Office
+CUST0282,Ethan Wilson,unknown@example.com,2025-05-07,India,Corporate
+CUST0283,Aisha Miller,aisha.miller283@example.com,2025-06-05,United States,Consumer
+CUST0284,Daniel Miller,daniel.miller284@example.com,2023-12-20,United Kingdom,Corporate
+CUST0285,Mason Taylor,mason.taylor285@example.com,2024-01-22,Germany,Home Office
+CUST0286,Amelia Brown,amelia.brown286@example.com,2024-12-15,United States,Corporate
+CUST0287,Sophia Brown,sophia.brown287@example.com,2025-05-26,Canada,Consumer
+CUST0288,Aarav Garcia,aarav.garcia288@example.com,2025-02-01,Germany,Home Office
+CUST0289,Mason Sharma,mason.sharma289@example.com,2024-01-31,France,Consumer
+CUST0290,Amelia Singh,amelia.singh290@example.com,2023-06-05,Germany,Consumer
+CUST0291,Emma Taylor,emma.taylor291@example.com,2025-09-15,India,Home Office
+CUST0292,Amelia Smith,unknown@example.com,2025-06-14,Australia,Consumer
+CUST0293,Irfan Taylor,irfan.taylor293@example.com,2025-07-21,Germany,Consumer
+CUST0294,Ethan Patel,ethan.patel294@example.com,2024-02-24,Australia,Home Office
+CUST0295,Emma Smith,emma.smith295@example.com,2024-04-25,Canada,Home Office
+CUST0296,Olivia Anderson,olivia.anderson296@example.com,2024-12-10,Germany,Home Office
+CUST0297,Irfan Garcia,irfan.garcia297@example.com,2025-05-22,France,Consumer
+CUST0298,Daniel Sharma,daniel.sharma298@example.com,2025-09-04,United Kingdom,Home Office
+CUST0299,Ethan Miller,ethan.miller299@example.com,2025-06-12,India,Consumer
+CUST0300,Lucas Smith,lucas.smith300@example.com,2023-08-29,France,Home Office
+CUST0301,Noah Brown,noah.brown301@example.com,2025-02-03,United States,Consumer
+CUST0302,Irfan Singh,irfan.singh302@example.com,2024-12-21,Australia,Consumer
+CUST0303,Mia Patel,mia.patel303@example.com,2024-12-11,United Kingdom,Consumer
+CUST0304,Aarav Garcia,aarav.garcia304@example.com,2025-03-26,United States,Home Office
+CUST0305,Olivia Garcia,olivia.garcia305@example.com,2024-03-17,United States,Corporate
+CUST0306,Daniel Sharma,daniel.sharma306@example.com,2024-08-02,France,Consumer
+CUST0307,Emma Patel,emma.patel307@example.com,2023-06-29,United States,Corporate
+CUST0308,Amelia Sharma,amelia.sharma308@example.com,2024-09-26,France,Corporate
+CUST0309,Mia Anderson,mia.anderson309@example.com,2023-05-27,United States,Consumer
+CUST0310,Aisha Wilson,aisha.wilson310@example.com,2024-04-15,United Kingdom,Home Office
+CUST0311,Aarav Miller,aarav.miller311@example.com,2025-07-11,United Kingdom,Home Office
+CUST0312,Daniel Patel,daniel.patel312@example.com,2023-03-17,Germany,Home Office
+CUST0313,Lucas Wilson,lucas.wilson313@example.com,2024-10-16,Germany,Home Office
+CUST0314,Noah Miller,noah.miller314@example.com,2025-05-15,United Kingdom,Corporate
+CUST0315,Sophia Miller,sophia.miller315@example.com,2023-04-20,United States,Consumer
+CUST0316,Lucas Garcia,lucas.garcia316@example.com,2024-08-11,United Kingdom,Home Office
+CUST0317,Noah Khan,noah.khan317@example.com,2025-04-29,France,Consumer
+CUST0318,Noah Khan,noah.khan318@example.com,2024-08-02,Australia,Home Office
+CUST0319,Mason Thomas,mason.thomas319@example.com,2025-09-23,United States,Corporate
+CUST0320,Ethan Miller,ethan.miller320@example.com,2025-05-02,Singapore,Home Office
+CUST0321,Mason Brown,mason.brown321@example.com,2024-09-13,Canada,Home Office
+CUST0322,Liam Singh,liam.singh322@example.com,2023-07-14,India,Home Office
+CUST0323,Aisha Thomas,aisha.thomas323@example.com,2025-02-24,France,Home Office
+CUST0324,Amelia Patel,amelia.patel324@example.com,2024-10-05,United States,Home Office
+CUST0325,Aisha Khan,aisha.khan325@example.com,2023-11-13,Canada,Consumer
+CUST0326,Aarav Anderson,aarav.anderson326@example.com,2024-01-09,Canada,Corporate
+CUST0327,Irfan Wilson,irfan.wilson327@example.com,2023-12-01,Canada,Consumer
+CUST0328,Emma Brown,emma.brown328@example.com,2023-05-16,Canada,Corporate
+CUST0329,Olivia Taylor,unknown@example.com,2024-05-28,Singapore,Home Office
+CUST0330,Amelia Patel,amelia.patel330@example.com,2023-09-21,Singapore,Consumer
+CUST0331,Mia Wilson,mia.wilson331@example.com,2025-02-03,Australia,Home Office
+CUST0332,Mason Smith,mason.smith332@example.com,2024-04-24,United States,Corporate
+CUST0333,Mason Brown,mason.brown333@example.com,2025-05-30,France,Home Office
+CUST0334,Aisha Sharma,aisha.sharma334@example.com,2025-09-17,Australia,Consumer
+CUST0335,Daniel Garcia,daniel.garcia335@example.com,2023-04-03,Canada,Consumer
+CUST0336,Aarav Wilson,aarav.wilson336@example.com,2024-07-03,United States,Consumer
+CUST0337,Olivia Singh,olivia.singh337@example.com,2025-02-05,France,Home Office
+CUST0338,Lucas Sharma,lucas.sharma338@example.com,2025-04-22,France,Home Office
+CUST0339,Irfan Singh,irfan.singh339@example.com,2023-08-28,Germany,Consumer
+CUST0340,Lucas Taylor,lucas.taylor340@example.com,2023-12-02,Singapore,Corporate
+CUST0341,Liam Singh,liam.singh341@example.com,2023-03-06,France,Consumer
+CUST0342,Mia Thomas,mia.thomas342@example.com,2023-11-06,France,Consumer
+CUST0343,Irfan Patel,irfan.patel343@example.com,2023-02-16,United States,Home Office
+CUST0344,Mia Smith,mia.smith344@example.com,2023-04-10,United States,Corporate
+CUST0345,Emma Sharma,emma.sharma345@example.com,2024-04-09,United Kingdom,Home Office
+CUST0346,Ethan Thomas,ethan.thomas346@example.com,2025-08-26,India,Consumer
+CUST0347,Lucas Thomas,lucas.thomas347@example.com,2025-01-14,United States,Consumer
+CUST0348,Aisha Smith,aisha.smith348@example.com,2025-05-03,Germany,Corporate
+CUST0349,Sophia Wilson,sophia.wilson349@example.com,2023-02-03,Canada,Home Office
+CUST0350,Liam Miller,liam.miller350@example.com,2024-03-31,United States,Consumer
+CUST0351,Olivia Smith,olivia.smith351@example.com,2024-12-03,United Kingdom,Corporate
+CUST0352,Aisha Garcia,aisha.garcia352@example.com,2023-03-04,Germany,Home Office
+CUST0353,Liam Smith,liam.smith353@example.com,2025-08-29,Australia,Consumer
+CUST0354,Mia Smith,mia.smith354@example.com,2024-11-09,United States,Home Office
+CUST0355,Aisha Anderson,aisha.anderson355@example.com,2025-09-21,United States,Consumer
+CUST0356,Mason Garcia,mason.garcia356@example.com,2023-09-07,United States,Consumer
+CUST0357,Lucas Brown,lucas.brown357@example.com,2023-03-12,Australia,Consumer
+CUST0358,Daniel Brown,daniel.brown358@example.com,2024-08-23,United States,Consumer
+CUST0359,Amelia Brown,amelia.brown359@example.com,2023-12-03,Canada,Corporate
+CUST0360,Mason Anderson,mason.anderson360@example.com,2023-01-03,United Kingdom,Consumer
+CUST0361,Emma Patel,emma.patel361@example.com,2024-07-07,United Kingdom,Consumer
+CUST0362,Emma Smith,emma.smith362@example.com,2024-11-07,Australia,Consumer
+CUST0363,Emma Khan,emma.khan363@example.com,2024-01-02,Canada,Consumer
+CUST0364,Liam Anderson,unknown@example.com,2023-11-28,United States,Corporate
+CUST0365,Noah Khan,unknown@example.com,2023-05-10,Canada,Consumer
+CUST0366,Daniel Smith,daniel.smith366@example.com,2025-02-02,United States,Consumer
+CUST0367,Mia Garcia,mia.garcia367@example.com,2024-06-09,India,Consumer
+CUST0368,Mia Taylor,mia.taylor368@example.com,2023-08-15,India,Consumer
+CUST0369,Ethan Singh,ethan.singh369@example.com,2024-06-17,United Kingdom,Consumer
+CUST0370,Aisha Khan,aisha.khan370@example.com,2023-03-04,Germany,Consumer
+CUST0371,Sophia Sharma,sophia.sharma371@example.com,2024-12-03,United States,Consumer
+CUST0372,Ethan Miller,ethan.miller372@example.com,2023-03-17,Singapore,Consumer
+CUST0373,Olivia Anderson,olivia.anderson373@example.com,2023-06-01,United States,Corporate
+CUST0374,Noah Anderson,noah.anderson374@example.com,2024-10-10,India,Corporate
+CUST0375,Ethan Garcia,ethan.garcia375@example.com,2024-01-26,India,Corporate
+CUST0376,Noah Miller,unknown@example.com,2024-06-01,India,Consumer
+CUST0377,Irfan Thomas,irfan.thomas377@example.com,2023-04-28,Australia,Home Office
+CUST0378,Aisha Taylor,aisha.taylor378@example.com,2025-01-08,Australia,Corporate
+CUST0379,Sophia Miller,sophia.miller379@example.com,2025-06-28,United States,Consumer
+CUST0380,Olivia Miller,olivia.miller380@example.com,2024-02-13,Germany,Home Office
+CUST0381,Irfan Garcia,irfan.garcia381@example.com,2024-03-13,United Kingdom,Home Office
+CUST0382,Noah Garcia,noah.garcia382@example.com,2025-09-03,United States,Home Office
+CUST0383,Mia Smith,mia.smith383@example.com,2023-04-04,Australia,Consumer
+CUST0384,Irfan Sharma,irfan.sharma384@example.com,2023-04-09,Canada,Home Office
+CUST0385,Olivia Patel,olivia.patel385@example.com,2024-07-23,United States,Corporate
+CUST0386,Daniel Taylor,daniel.taylor386@example.com,2023-12-04,France,Consumer
+CUST0387,Sophia Garcia,sophia.garcia387@example.com,2025-06-13,France,Consumer
+CUST0388,Sophia Thomas,sophia.thomas388@example.com,2023-02-22,United Kingdom,Corporate
+CUST0389,Noah Garcia,noah.garcia389@example.com,2023-04-17,India,Corporate
+CUST0390,Liam Patel,liam.patel390@example.com,2024-11-03,Germany,Corporate
+CUST0391,Amelia Smith,amelia.smith391@example.com,2023-12-25,Australia,Corporate
+CUST0392,Olivia Smith,olivia.smith392@example.com,2025-02-19,United Kingdom,Corporate
+CUST0393,Liam Sharma,liam.sharma393@example.com,2025-05-15,India,Consumer
+CUST0394,Amelia Anderson,amelia.anderson394@example.com,2024-09-20,France,Home Office
+CUST0395,Daniel Khan,daniel.khan395@example.com,2024-09-15,Singapore,Home Office
+CUST0396,Amelia Thomas,amelia.thomas396@example.com,2023-10-01,United States,Corporate
+CUST0397,Noah Thomas,noah.thomas397@example.com,2025-02-19,United Kingdom,Home Office
+CUST0398,Olivia Khan,olivia.khan398@example.com,2023-07-05,Australia,Corporate
+CUST0399,Lucas Singh,lucas.singh399@example.com,2024-02-15,United States,Corporate
+CUST0400,Ethan Singh,ethan.singh400@example.com,2025-09-22,United States,Consumer
+CUST0401,Ethan Taylor,ethan.taylor401@example.com,2023-08-09,Germany,Consumer
+CUST0402,Mia Garcia,mia.garcia402@example.com,2023-06-11,United Kingdom,Home Office
+CUST0403,Ethan Garcia,ethan.garcia403@example.com,2025-03-06,India,Corporate
+CUST0404,Irfan Khan,irfan.khan404@example.com,2023-06-09,United States,Consumer
+CUST0405,Lucas Khan,lucas.khan405@example.com,2024-11-21,United States,Home Office
+CUST0406,Mia Singh,mia.singh406@example.com,2024-03-10,Germany,Corporate
+CUST0407,Mia Sharma,mia.sharma407@example.com,2023-10-07,United States,Consumer
+CUST0408,Daniel Smith,daniel.smith408@example.com,2023-12-20,Germany,Consumer
+CUST0409,Noah Singh,noah.singh409@example.com,2024-11-25,India,Consumer
+CUST0410,Daniel Singh,daniel.singh410@example.com,2023-11-12,United States,Corporate
+CUST0411,Sophia Anderson,sophia.anderson411@example.com,2023-02-26,United States,Corporate
+CUST0412,Noah Brown,noah.brown412@example.com,2025-02-24,United States,Consumer
+CUST0413,Noah Wilson,noah.wilson413@example.com,2023-12-02,United States,Consumer
+CUST0414,Mia Thomas,mia.thomas414@example.com,2024-03-16,United States,Corporate
+CUST0415,Sophia Taylor,sophia.taylor415@example.com,2024-12-21,United States,Corporate
+CUST0416,Daniel Singh,daniel.singh416@example.com,2025-04-05,United Kingdom,Consumer
+CUST0417,Sophia Thomas,sophia.thomas417@example.com,2023-02-13,Germany,Consumer
+CUST0418,Mia Smith,mia.smith418@example.com,2025-06-01,United Kingdom,Corporate
+CUST0419,Sophia Anderson,sophia.anderson419@example.com,2024-02-19,Canada,Home Office
+CUST0420,Sophia Wilson,sophia.wilson420@example.com,2023-04-28,Germany,Consumer
+CUST0421,Olivia Patel,olivia.patel421@example.com,2025-03-31,India,Consumer
+CUST0422,Amelia Thomas,amelia.thomas422@example.com,2025-07-30,United Kingdom,Consumer
+CUST0423,Sophia Smith,unknown@example.com,2023-09-07,Germany,Corporate
+CUST0424,Sophia Taylor,sophia.taylor424@example.com,2023-03-22,Germany,Consumer
+CUST0425,Noah Thomas,noah.thomas425@example.com,2023-12-14,United States,Home Office
+CUST0426,Mason Patel,mason.patel426@example.com,2023-03-20,India,Home Office
+CUST0427,Irfan Taylor,irfan.taylor427@example.com,2024-06-06,United States,Consumer
+CUST0428,Olivia Garcia,olivia.garcia428@example.com,2025-01-14,Australia,Home Office
+CUST0429,Amelia Patel,amelia.patel429@example.com,2023-08-30,United States,Corporate
+CUST0430,Noah Brown,noah.brown430@example.com,2023-06-27,India,Corporate
+CUST0431,Mason Singh,mason.singh431@example.com,2023-03-19,United States,Consumer
+CUST0432,Aisha Miller,aisha.miller432@example.com,2024-04-20,Canada,Corporate
+CUST0433,Mason Anderson,mason.anderson433@example.com,2024-04-04,France,Corporate
+CUST0434,Aisha Singh,aisha.singh434@example.com,2024-10-01,United Kingdom,Consumer
+CUST0435,Aisha Garcia,aisha.garcia435@example.com,2023-06-04,Germany,Consumer
+CUST0436,Mia Miller,mia.miller436@example.com,2024-10-08,United Kingdom,Consumer
+CUST0437,Noah Anderson,noah.anderson437@example.com,2023-02-27,United Kingdom,Corporate
+CUST0438,Irfan Wilson,unknown@example.com,2024-04-17,Germany,Consumer
+CUST0439,Aarav Garcia,aarav.garcia439@example.com,2025-05-01,United Kingdom,Consumer
+CUST0440,Aisha Smith,aisha.smith440@example.com,2024-09-21,India,Corporate
+CUST0441,Sophia Miller,sophia.miller441@example.com,2024-08-17,India,Consumer
+CUST0442,Ethan Khan,ethan.khan442@example.com,2024-04-05,Singapore,Consumer
+CUST0443,Lucas Singh,lucas.singh443@example.com,2023-07-12,United Kingdom,Corporate
+CUST0444,Mia Taylor,mia.taylor444@example.com,2023-06-04,United States,Consumer
+CUST0445,Irfan Garcia,irfan.garcia445@example.com,2025-01-01,United States,Corporate
+CUST0446,Aisha Patel,aisha.patel446@example.com,2023-02-10,United States,Home Office
+CUST0447,Mia Miller,mia.miller447@example.com,2024-06-20,India,Corporate
+CUST0448,Emma Garcia,emma.garcia448@example.com,2024-01-17,Singapore,Home Office
+CUST0449,Sophia Sharma,sophia.sharma449@example.com,2025-03-04,United Kingdom,Home Office
+CUST0450,Lucas Khan,lucas.khan450@example.com,2025-03-19,France,Home Office
+CUST0451,Olivia Smith,olivia.smith451@example.com,2023-12-04,United States,Corporate
+CUST0452,Aisha Sharma,aisha.sharma452@example.com,2023-10-18,United Kingdom,Home Office
+CUST0453,Amelia Singh,amelia.singh453@example.com,2025-09-14,Singapore,Corporate
+CUST0454,Amelia Patel,amelia.patel454@example.com,2023-12-08,United States,Corporate
+CUST0455,Aisha Patel,unknown@example.com,2025-07-27,United Kingdom,Home Office
+CUST0456,Aisha Thomas,aisha.thomas456@example.com,2024-11-09,Germany,Corporate
+CUST0457,Lucas Thomas,lucas.thomas457@example.com,2025-08-18,United States,Home Office
+CUST0458,Daniel Sharma,daniel.sharma458@example.com,2024-10-20,Canada,Home Office
+CUST0459,Amelia Patel,amelia.patel459@example.com,2024-11-17,Canada,Consumer
+CUST0460,Ethan Singh,ethan.singh460@example.com,2025-07-23,India,Consumer
+CUST0461,Aisha Singh,aisha.singh461@example.com,2024-03-09,India,Home Office
+CUST0462,Aarav Garcia,aarav.garcia462@example.com,2023-11-13,United States,Corporate
+CUST0463,Olivia Miller,olivia.miller463@example.com,2023-07-16,United States,Corporate
+CUST0464,Emma Smith,emma.smith464@example.com,2023-10-30,Australia,Consumer
+CUST0465,Irfan Taylor,irfan.taylor465@example.com,2025-02-28,India,Consumer
+CUST0466,Ethan Taylor,ethan.taylor466@example.com,2023-02-08,France,Home Office
+CUST0467,Mason Anderson,mason.anderson467@example.com,2023-05-15,India,Consumer
+CUST0468,Emma Patel,emma.patel468@example.com,2023-07-05,Australia,Home Office
+CUST0469,Mason Anderson,mason.anderson469@example.com,2025-04-08,Singapore,Corporate
+CUST0470,Ethan Miller,unknown@example.com,2023-02-14,Germany,Home Office
+CUST0471,Aisha Thomas,aisha.thomas471@example.com,2023-09-01,Germany,Corporate
+CUST0472,Noah Thomas,noah.thomas472@example.com,2025-03-13,Germany,Corporate
+CUST0473,Daniel Brown,daniel.brown473@example.com,2023-11-13,Canada,Consumer
+CUST0474,Mia Brown,mia.brown474@example.com,2024-01-12,France,Corporate
+CUST0475,Mia Miller,mia.miller475@example.com,2025-02-26,United Kingdom,Consumer
+CUST0476,Sophia Taylor,sophia.taylor476@example.com,2024-06-24,Germany,Corporate
+CUST0477,Amelia Brown,amelia.brown477@example.com,2025-03-31,India,Corporate
+CUST0478,Amelia Wilson,amelia.wilson478@example.com,2023-02-23,France,Consumer
+CUST0479,Amelia Garcia,amelia.garcia479@example.com,2024-07-21,Singapore,Consumer
+CUST0480,Ethan Taylor,ethan.taylor480@example.com,2025-05-21,United States,Home Office
+CUST0481,Irfan Patel,irfan.patel481@example.com,2023-10-07,Germany,Corporate
+CUST0482,Emma Sharma,emma.sharma482@example.com,2023-04-04,Singapore,Corporate
+CUST0483,Amelia Miller,amelia.miller483@example.com,2025-06-24,United Kingdom,Consumer
+CUST0484,Sophia Khan,sophia.khan484@example.com,2024-02-10,India,Home Office
+CUST0485,Liam Sharma,liam.sharma485@example.com,2023-03-25,United Kingdom,Corporate
+CUST0486,Aarav Garcia,aarav.garcia486@example.com,2025-08-11,United States,Consumer
+CUST0487,Ethan Singh,ethan.singh487@example.com,2023-12-10,Canada,Corporate
+CUST0488,Emma Khan,emma.khan488@example.com,2023-10-21,Singapore,Consumer
+CUST0489,Mia Thomas,mia.thomas489@example.com,2025-05-01,United States,Consumer
+CUST0490,Ethan Miller,ethan.miller490@example.com,2024-04-04,India,Consumer
+CUST0491,Irfan Khan,irfan.khan491@example.com,2023-09-20,United States,Consumer
+CUST0492,Emma Taylor,emma.taylor492@example.com,2025-08-20,Canada,Corporate
+CUST0493,Daniel Sharma,daniel.sharma493@example.com,2023-04-24,Canada,Home Office
+CUST0494,Liam Wilson,liam.wilson494@example.com,2023-05-05,United States,Corporate
+CUST0495,Sophia Singh,sophia.singh495@example.com,2025-03-23,India,Consumer
+CUST0496,Irfan Smith,irfan.smith496@example.com,2025-05-06,Singapore,Consumer
+CUST0497,Lucas Taylor,lucas.taylor497@example.com,2023-01-17,France,Corporate
+CUST0498,Lucas Brown,lucas.brown498@example.com,2025-01-05,United States,Home Office
+CUST0499,Sophia Khan,sophia.khan499@example.com,2024-09-21,United Kingdom,Corporate
+CUST0500,Lucas Sharma,lucas.sharma500@example.com,2023-07-11,France,Home Office
